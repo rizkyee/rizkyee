@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Rizkyee
 
-<!--
-**rizkyee/rizkyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | Laravel & Vue.js Enthusiast | Open Source Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔥 Passionate about building modern, responsive, and user-friendly web applications.  
+- 🌱 Currently learning and exploring **Laravel 11**, **Vue.js 3**, and **Tailwind CSS**.  
+- 🛠️ I enjoy creating projects that combine **backend strength** with **frontend beauty**.  
+- 📚 Love to share knowledge and continuously improve my coding skills.  
+- 🤝 Open for collaboration in open-source and freelance projects.  
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** Vue.js, Tailwind CSS, Bootstrap, HTML, CSS  
+- **Backend:** Laravel, PHP, MySQL  
+- **Tools:** Git, XAMPP, PhpStorm, VS Code, WebStorm  
+- **OS:** Ubuntu Linux & Windows  
+
+---
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Find Me Around the Web
+- 🌎 Portfolio: [your-portfolio-link.com](#)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](#)  
+- 📝 Blog: [your-blog-link.com](#)  
+- 📩 Reach me: **your.email@example.com**
+
+---
+⭐️ From [rizkyee](https://github.com/rizkyee)
