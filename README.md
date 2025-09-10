@@ -1,8 +1,14 @@
-<!-- Banner animasi teks -->
+<!-- Banner Animasi Gradient + Typing -->
 <p align="center">
   <a href="https://github.com/rizkyee">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+Saya+Rizky+Ramdani;Fullstack+Web+Developer;Laravel+%7C+Vue.js+3+%7C+Tailwind+CSS;Suka+Membangun+Web+Modern+%26+Responsif" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+Saya+Rizky+Ramdani;Fullstack+Web+Developer;Laravel+%7C+Vue.js+3+%7C+Tailwind+CSS;Membangun+Web+Modern+%26+Responsif" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Gradient Background -->
+<p align="center">
+  <img src="https://github.com/aleen42/badges/raw/master/src/spotify.svg" width="0" height="0">
+  <img src="https://github.com/kyechan99/capsule-render/blob/master/demo/gradient.gif?raw=true" width="100%" height="30">
 </p>
 
 
