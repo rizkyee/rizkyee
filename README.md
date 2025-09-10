@@ -1,18 +1,18 @@
-<!-- Banner Animasi Gradient + Typing -->
+<!-- 🌊 Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4FC3F7&height=200&section=header&text=Rizky%20Ramdani&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</p>
+
+<!-- ✨ Typing Animation -->
 <p align="center">
   <a href="https://github.com/rizkyee">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+Saya+Rizky+Ramdani;Fullstack+Web+Developer;Laravel+%7C+Vue.js+3+%7C+Tailwind+CSS;Membangun+Web+Modern+%26+Responsif" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+Saya+Rizky+Ramdani;Fullstack+Web+Developer;Laravel+%7C+PHP+%7C+CI3;Vue.js+3+%7C+JavaScript+%7C+Tailwind+CSS;Membangun+Web+Modern+%26+Responsif" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Gradient Background -->
-<p align="center">
-  <img src="https://github.com/aleen42/badges/raw/master/src/spotify.svg" width="0" height="0">
-  <img src="https://github.com/kyechan99/capsule-render/blob/master/demo/gradient.gif?raw=true" width="100%" height="30">
-</p>
+---
 
-
-# 👋 Hai, Saya Rizky Ramdani
+# 👋 Hai, Saya Rizky Ramdani  
 
 💻 **Fullstack Web Developer**  
 🚀 Menguasai **Laravel, PHP, CI3, Vue.js 3, JavaScript, HTML5, CSS, Tailwind CSS**  
@@ -26,7 +26,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-FC4C02?style=for-the-badge&logo=codeigniter&logoColor=white" />
@@ -52,11 +52,16 @@
 ---
 
 ## 📬 Hubungi Saya
-<p align="left">
+<p align="center">
   <a href="mailto:21rizky@siswa.smktiannajiyah.sch.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/rizkyee_ramdani" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
+
+<!-- 🌊 Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4FC3F7&height=150&section=footer"/>
+</p>
 
 ⭐️ Dari [rizkyee](https://github.com/rizkyee)
