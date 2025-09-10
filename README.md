@@ -1,7 +1,7 @@
 <!-- Banner animasi teks -->
 <p align="center">
   <a href="https://github.com/rizkyee">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=38B2AC&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Laravel+%7C+PHP+%7C+CI3;Vue.js+3+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+and+Responsive+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=38B2AC&center=true&vCenter=true&width=700&lines=Fullstack+Web+Developer;Laravel+%7C+PHP+%7C+CI3;Vue.js+3+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+and+Responsive+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,6 +9,12 @@
 
 💻 **Fullstack Web Developer**  
 🚀 Menguasai **Laravel, PHP, CI3, Vue.js 3, JavaScript, HTML5, CSS, Tailwind CSS**  
+
+---
+
+## 🎓 Pendidikan
+- 🎓 **SMKTI Annajiyah** – Rekayasa Perangkat Lunak  
+- 🎓 **Universitas KH. Abdul Wahab Hasbullah** – S1 Informatika  
 
 ---
 
@@ -30,6 +36,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rizkyee&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
