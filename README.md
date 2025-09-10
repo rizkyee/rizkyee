@@ -1,9 +1,10 @@
 <!-- Banner animasi teks -->
 <p align="center">
   <a href="https://github.com/rizkyee">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=38B2AC&center=true&vCenter=true&width=700&lines=Fullstack+Web+Developer;Laravel+%7C+PHP+%7C+CI3;Vue.js+3+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+and+Responsive+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+Saya+Rizky+Ramdani;Fullstack+Web+Developer;Laravel+%7C+Vue.js+3+%7C+Tailwind+CSS;Suka+Membangun+Web+Modern+%26+Responsif" alt="Typing SVG" />
   </a>
 </p>
+
 
 # 👋 Hai, Saya Rizky Ramdani
 
