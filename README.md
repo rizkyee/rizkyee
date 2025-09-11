@@ -1,7 +1,3 @@
-<!-- 🌊 Wave Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4FC3F7&height=200&section=header&text=Rizky%20Ramdani&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</p>
 
 <!-- ✨ Typing Animation -->
 <p align="center">
@@ -58,10 +54,4 @@
 </p>
 
 ---
-
-<!-- 🌊 Wave Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4FC3F7&height=150&section=footer"/>
-</p>
-
 ⭐️ Dari [rizkyee](https://github.com/rizkyee)
