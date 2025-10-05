@@ -35,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rizkyee&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📬 Hubungi Saya
 <p align="center">
   <a href="mailto:21rizky@siswa.smktiannajiyah.sch.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
