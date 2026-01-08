@@ -8,8 +8,6 @@
 
 ---
 
-# 👋 Hai, Saya Rizky Ramdani  
-
 💻 **Fullstack Web Developer**  
 🚀 Menguasai **Laravel, PHP, CI3, Vue.js 3, JavaScript, HTML5, CSS, Tailwind CSS**  
 
