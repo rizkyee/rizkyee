@@ -1,23 +1,15 @@
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Education" alt="Education" />
+</p>
 
-## Education
-
-- **SMKTI Annajiyah**  
-  Rekayasa Perangkat Lunak
-
-- **Universitas KH. Abdul Wahab Hasbullah**  
-  S1 Informatika
-
----
-
-## Contact
-
-- GitHub: [rizkyee](https://github.com/rizkyee)
-- Email: emailkamu@example.com
-- Instagram: [usernamekamu](https://instagram.com/usernamekamu)
-
----
+<h2 align="center">🎓 Education</h2>
 
 <p align="center">
-  Web Development • Mobile Development • Backend API
+  <b>SMKTI Annajiyah</b><br>
+  Rekayasa Perangkat Lunak
+</p>
+
+<p align="center">
+  <b>Universitas KH. Abdul Wahab Hasbullah</b><br>
+  S1 Informatika
 </p>
