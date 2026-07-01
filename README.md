@@ -1,17 +1,14 @@
 <div align="center">
 
-# Hi, I'm Rizkyee
+# Rizkyee
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Mobile+App+Developer;Freelance+Software+Developer;Laravel+%7C+Node.js+%7C+Vue+%7C+React+%7C+Android" alt="Typing SVG" />
+### Full-Stack Web & Mobile Developer
 
-<p>
-  I build web applications, mobile applications, APIs, dashboards, and custom software solutions for freelance and business projects.
-</p>
+I build web applications, mobile applications, dashboards, APIs, POS systems, and custom software solutions for freelance and business needs.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=rizkyee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20For-Freelance%20Projects-success" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Open%20For-Freelance%20Projects-2ea44f?style=flat" alt="Freelance" />
 </p>
 
 </div>
@@ -20,97 +17,108 @@
 
 ## About Me
 
-I am a Full-Stack Web and Mobile Developer focused on building practical, clean, and user-friendly digital products.
+I am a Full-Stack Web and Mobile Developer focused on building clean, practical, and maintainable digital products.
 
-I work with frontend, backend, mobile development, API integration, dashboard systems, POS applications, and custom software based on client needs.
+I work with frontend development, backend development, mobile applications, REST APIs, admin dashboards, POS systems, and custom software based on client requirements.
 
 - Full-Stack Web Developer
 - Mobile App Developer
+- Android Developer
+- iOS App Developer
 - Freelance Software Developer
-- Focused on clean code and maintainable structure
-- Experienced in web apps, mobile apps, dashboards, APIs, and POS systems
-- Open for freelance projects and collaboration
+- Focused on clean code and real-world business solutions
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
-### Frontend
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,react" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
 </p>
 
-### Backend
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=fff" />
 </p>
 
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=fff" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Framework7-EE350F?style=for-the-badge&logo=framework7&logoColor=fff" />
+</p>
+
+### Android Languages & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
 </p>
 
 ---
 
-## Skills
+## Services
 
-### Web Development
-
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- Vue.js
-- React.js
-- PHP
-- Laravel
-- CodeIgniter 3
-- Node.js
-- Python
-
-### Mobile Development
-
-- Android Studio
+- Website Development
+- Mobile App Development
 - Android App Development
 - iOS App Development
-- Framework7
-- Hybrid Mobile App Development
-- Mobile UI Implementation
-
-### Development Focus
-
+- Admin Dashboard Development
 - REST API Development
-- Admin Dashboard
 - Point of Sale System
-- Authentication System
-- Responsive Web Design
-- Database Management
-- Web and Mobile Application Development
+- Company Profile Website
+- Custom Web Application
+- Hybrid Mobile Application
+- Web Maintenance and Feature Development
 
 ---
 
 ## Featured Projects
 
-### POS Application
+### Point of Sale Application
 
-Point of Sale application for managing products, transactions, sales reports, and cashier operations.
+A POS application for managing products, sales transactions, reports, and cashier operations.
 
-**Tech Stack:** PHP, Laravel / CodeIgniter, MySQL, JavaScript
+**Tech Stack:** PHP, Laravel, CodeIgniter 3, MySQL, JavaScript
 
 ---
 
 ### ESP8266 Clock Control
 
-Frontend interface for remote control and configuration of an ESP8266 digital clock system.
+A web-based interface for remote control and configuration of an ESP8266 digital clock system.
 
 **Tech Stack:** Vue.js, JavaScript, ESP8266
 
@@ -118,9 +126,9 @@ Frontend interface for remote control and configuration of an ESP8266 digital cl
 
 ### Web and Mobile Applications
 
-Custom web and mobile applications developed based on business requirements, user needs, and system workflows.
+Custom web and mobile applications developed based on business needs, user flow, and system requirements.
 
-**Tech Stack:** Laravel, Node.js, Vue.js, React.js, Android Studio, Framework7
+**Tech Stack:** Laravel, Node.js, Vue.js, React, Android Studio, Framework7
 
 ---
 
@@ -128,29 +136,9 @@ Custom web and mobile applications developed based on business requirements, use
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rizkyee&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyee&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -166,29 +154,12 @@ Bachelor of Informatics
 
 ---
 
-## Currently Focused On
-
-- Full-stack web development
-- Mobile app development
-- Android application development
-- iOS application development
-- Freelance software projects
-- Building scalable and maintainable applications
-
----
-
 ## Contact
-
-<div align="center">
 
 <p>
   <a href="https://github.com/rizkyee">
-    <img src="https://img.shields.io/badge/GitHub-rizkyee-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-rizkyee-181717?style=for-the-badge&logo=github&logoColor=fff" />
   </a>
 </p>
 
-<p>
-  Open for freelance projects, collaboration, and software development work.
-</p>
-
-</div>
+Available for freelance projects, collaboration, and custom software development.
