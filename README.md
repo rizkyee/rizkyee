@@ -140,9 +140,9 @@ My goal is to help clients and teams turn ideas into working digital products wi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
