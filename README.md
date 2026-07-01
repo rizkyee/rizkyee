@@ -4,11 +4,16 @@
 
 ### Full-Stack Web & Mobile Developer
 
-I build web applications, mobile applications, dashboards, APIs, POS systems, and custom software solutions for freelance and business needs.
+I help businesses and clients build reliable web applications, mobile applications, dashboards, APIs, POS systems, and custom software solutions.
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Mobile+App+Developer;Freelance+Software+Developer;Building+Web+Apps%2C+Mobile+Apps%2C+APIs+and+Dashboards" alt="Typing SVG" />
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=rizkyee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20For-Freelance%20Projects-2ea44f?style=flat" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Development-blue?style=flat" alt="Focus" />
 </p>
 
 </div>
@@ -17,16 +22,27 @@ I build web applications, mobile applications, dashboards, APIs, POS systems, an
 
 ## About Me
 
-I am a Full-Stack Web and Mobile Developer focused on building clean, practical, and maintainable digital products.
+I am a Full-Stack Web and Mobile Developer focused on building practical, scalable, and maintainable digital products.
 
-I work with frontend development, backend development, mobile applications, REST APIs, admin dashboards, POS systems, and custom software based on client requirements.
+I work with frontend development, backend development, mobile app development, REST API integration, admin dashboards, POS systems, and custom software based on business needs.
 
-- Full-Stack Web Developer
-- Mobile App Developer
-- Android Developer
-- iOS App Developer
-- Freelance Software Developer
-- Focused on clean code and real-world business solutions
+My goal is to help clients and teams turn ideas into working digital products with clean structure, clear user flow, and reliable functionality.
+
+---
+
+## Professional Focus
+
+- Full-Stack Web Development
+- Mobile App Development
+- Android App Development
+- iOS App Development
+- REST API Development
+- Admin Dashboard Development
+- Point of Sale System Development
+- Company Profile Website
+- Business Management System
+- Custom Software Development
+- Freelance Project Development
 
 ---
 
@@ -79,56 +95,44 @@ I work with frontend development, backend development, mobile applications, REST
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff" />
 </p>
 
-### Tools
+### Database & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
 </p>
 
 ---
 
-## Services
+## What I Can Build
 
-- Website Development
-- Mobile App Development
-- Android App Development
-- iOS App Development
-- Admin Dashboard Development
-- REST API Development
-- Point of Sale System
+- Business Website
 - Company Profile Website
-- Custom Web Application
+- Admin Dashboard
+- Point of Sale System
+- REST API
+- Web Application
+- Android Application
+- iOS Application
 - Hybrid Mobile Application
-- Web Maintenance and Feature Development
+- Custom Management System
+- Web Maintenance
+- Feature Development
+- Frontend Slicing
+- Backend System Development
 
 ---
 
-## Featured Projects
+## Why Work With Me
 
-### Point of Sale Application
-
-A POS application for managing products, sales transactions, reports, and cashier operations.
-
-**Tech Stack:** PHP, Laravel, CodeIgniter 3, MySQL, JavaScript
-
----
-
-### ESP8266 Clock Control
-
-A web-based interface for remote control and configuration of an ESP8266 digital clock system.
-
-**Tech Stack:** Vue.js, JavaScript, ESP8266
-
----
-
-### Web and Mobile Applications
-
-Custom web and mobile applications developed based on business needs, user flow, and system requirements.
-
-**Tech Stack:** Laravel, Node.js, Vue.js, React, Android Studio, Framework7
+- I build systems based on real business needs
+- I focus on clean and maintainable code
+- I care about user flow and application structure
+- I can work on both frontend and backend
+- I can develop web and mobile applications
+- I am open to freelance projects, collaboration, and long-term work
 
 ---
 
@@ -136,9 +140,9 @@ Custom web and mobile applications developed based on business needs, user flow,
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rizkyee&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyee&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -162,4 +166,4 @@ Bachelor of Informatics
   </a>
 </p>
 
-Available for freelance projects, collaboration, and custom software development.
+I am available for freelance projects, collaboration, and custom software development.
