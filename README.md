@@ -16,6 +16,23 @@ I help businesses and clients build reliable web applications, mobile applicatio
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Development-blue?style=flat" alt="Focus" />
 </p>
 
-</div>
-
 ---
+
+### 📬 Connect with me
+
+<p>
+  <a href="mailto:kyyrizky6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/6285210612146" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://linkedin.com/in/Rizky Ramdani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/rizkyeramdani" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+</div>
