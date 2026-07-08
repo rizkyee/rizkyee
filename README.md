@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rizkyee
+# Rizky Ramdani
 
 ### Full-Stack Web & Mobile Developer
 
