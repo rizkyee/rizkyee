@@ -3,12 +3,18 @@
 
 Building reliable, production-ready digital products for businesses **since 2021**.
 
-[![Available for Freelance](https://img.shields.io/badge/●%20Available%20for%20Freelance-16a34a?style=for-the-badge)](https://wa.me/6285210612146?text=Halo%20Rizky,%20saya%20tertarik%20untuk%20diskusi%20proyek)
-![Experience](https://img.shields.io/badge/Experience-Since%202021-0e7490?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Jombang,%20ID-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Remote](https://img.shields.io/badge/Work-Remote%20Worldwide-334155?style=for-the-badge&logo=googlechrome&logoColor=white)
+<p align="center">
+  <a href="https://wa.me/6285210612146?text=Halo%20Rizky,%20saya%20tertarik%20untuk%20diskusi%20proyek">
+    <img src="https://img.shields.io/badge/●%20Available%20for%20Freelance-16a34a?style=for-the-badge" alt="Available" />
+  </a>
+  <img src="https://img.shields.io/badge/Since-2021-0e7490?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Jombang,%20ID-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Remote-Worldwide-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Remote" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&vCenter=true&width=760&lines=Full-Stack+Web+%26+Mobile+Developer+(Since+2021);Mobile:+Android+(Kotlin%2C+Java)+%26+Flutter+(Dart);Backend:+Golang%2C+Express.js%2C+Node.js%2C+PHP%2C+Laravel;Frontend:+Vue%2C+Nuxt%2C+React%2C+JavaScript%2C+Tailwind;Database:+PostgreSQL+%26+MySQL)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Web+%26+Mobile+Developer+(Since+2021);Mobile:+Android+(Kotlin%2C+Java)+%26+Flutter+(Dart);Backend:+Golang%2C+Express.js%2C+Node.js%2C+PHP%2C+Laravel;Frontend:+Vue%2C+Nuxt%2C+React%2C+JavaScript%2C+Tailwind;Database:+PostgreSQL+%26+MySQL" alt="Typing SVG" />
+</p>
 
 ---
 
