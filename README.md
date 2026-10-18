@@ -1,51 +1,59 @@
-<p>
-  <img alt="Rizky Ramdani — Full-Stack Web & Mobile Developer" src="./assets/hero.svg" width="100%">
+# 👨‍💻 Rizky Ramdani
+### Full-Stack Web & Mobile Developer · Freelance Specialist
+
+Building reliable, production-ready digital products for businesses **since 2021**.
+
+<p align="center">
+  <a href="https://wa.me/6285210612146?text=Halo%20Rizky,%20saya%20tertarik%20untuk%20diskusi%20proyek">
+    <img src="https://img.shields.io/badge/●%20Available%20for%20Freelance-16a34a?style=for-the-badge" alt="Available" />
+  </a>
+  <img src="https://img.shields.io/badge/Since-2021-0e7490?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Jombang,%20ID-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Remote-Worldwide-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Remote" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rizky-ramdani"><img alt="LinkedIn" src="./assets/btn-linkedin.svg" height="44"></a>
-  &nbsp;
-  <a href="mailto:kyyrizky6@gmail.com"><img alt="Email" src="./assets/btn-email.svg" height="44"></a>
-  &nbsp;
-  <a href="https://wa.me/6285210612146?text=Halo%20Rizky,%20saya%20tertarik%20untuk%20diskusi%20proyek"><img alt="WhatsApp" src="./assets/btn-whatsapp.svg" height="44"></a>
-  &nbsp;
-  <a href="https://instagram.com/rizkyeramdani"><img alt="Instagram" src="./assets/btn-instagram.svg" height="44"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Web+%26+Mobile+Developer+(Since+2021);Mobile:+Android+(Kotlin%2C+Java)+%26+Flutter+(Dart);Backend:+Golang%2C+Express.js%2C+Node.js%2C+PHP%2C+Laravel;Frontend:+Vue%2C+Nuxt%2C+React%2C+JavaScript%2C+Tailwind;Database:+PostgreSQL+%26+MySQL" alt="Typing SVG" />
 </p>
 
-<p>
-  <img alt="01 — About" src="./assets/section-about.svg" width="100%">
-</p>
+---
 
-I'm a Full-Stack Web & Mobile Developer based in **Jombang, Indonesia (UTC+7)**, dedicated to building reliable, high-performance, and scalable digital products for businesses **since 2021**. I specialize in **Native Android**, **Cross-Platform Flutter**, modern **Web SPAs & Dashboards (Vue/Nuxt/React)**, resilient **Backend APIs (Golang/Laravel/Node)**, and automated **Point of Sale (POS) & ERP solutions**. Got a project in mind? I'm always open for collaboration and contracts.
+### 💼 Services & What I Build
 
-<p>
-  <img alt="Services & What I Build" src="./assets/cards-services.svg" width="100%">
-</p>
+- 📱 **Mobile Applications:** Android Native (Kotlin & Java) and Cross-Platform (Flutter / Dart)
+- 🌐 **Modern Web & Dashboards:** Vue, Nuxt, React, Tailwind CSS, and JavaScript / TypeScript
+- ⚡ **High-Performance APIs:** Golang, Express.js (Node.js), Laravel, PHP & CodeIgniter
+- 🧾 **Business & POS Solutions:** Point of Sale (Kasir), Inventory Management, and Admin Dashboards
 
-<p>
-  <img alt="02 — Value Proposition" src="./assets/section-why.svg" width="100%">
-</p>
+---
 
-<p>
-  <img alt="Why Clients Work With Me" src="./assets/cards-why.svg" width="100%">
-</p>
+## 🛠️ Tech Stack
 
-<p>
-  <img alt="03 — Toolbox" src="./assets/section-stack.svg" width="100%">
-</p>
+| 📱 Mobile | 🎨 Frontend | ⚙️ Backend | 🗄️ Database & Tools |
+| :-: | :-: | :-: | :-: |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,kotlin,java,flutter,dart,cpp&perline=3" alt="Mobile" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxt,react,tailwind&perline=3" alt="Frontend" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=go,nodejs,express,php,laravel,codeigniter&perline=3" alt="Backend" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,py,docker,git,postman&perline=3" alt="Database & Tools" /> |
 
-<p>
-  <img alt="Tools I build with" src="./assets/toolbox.svg" width="100%">
-</p>
+---
 
-<p>
-  <img alt="04 — Activity" src="./assets/section-activity.svg" width="100%">
-</p>
+## 🤝 Why Clients Work With Me
 
-<p>
-  <img alt="GitHub Streak & Activity" src="https://streak-stats.demolab.com?user=rizkyee&theme=tokyonight&hide_border=true&background=070b14" width="100%">
-</p>
+| ⚡ Fast Delivery | 💬 Clear Communication | 🧩 Clean Code | 🛠️ After-Launch Support |
+| :-: | :-: | :-: | :-: |
+| On-time milestones | Regular progress updates | Scalable & maintainable | Bug fixes & maintenance |
 
-<p>
-  <img alt="Let's build something together" src="./assets/footer.svg" width="100%">
-</p>
+---
+
+## 📈 GitHub Activity
+
+<img src="https://streak-stats.demolab.com?user=rizkyee&theme=github-dark-blue&hide_border=true&background=0d1117" width="100%" alt="GitHub Streak" />
+
+---
+
+## 📬 Let's Build Something
+
+Have a project in mind? Let's talk — I am open to freelance projects and contracts.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285210612146?text=Halo%20Rizky,%20saya%20tertarik%20untuk%20diskusi%20proyek)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyyrizky6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizky-ramdani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizkyeramdani)
