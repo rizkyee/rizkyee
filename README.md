@@ -13,17 +13,17 @@ Building reliable, production-ready digital products for businesses **since 2021
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Web+%26+Mobile+Developer+(Since+2021);Mobile:+Android+(Kotlin%2C+Java)+%26+Flutter+(Dart);Backend:+Golang%2C+Express.js%2C+Node.js%2C+PHP%2C+Laravel;Frontend:+Vue%2C+Nuxt%2C+React%2C+JavaScript%2C+Tailwind;Database:+PostgreSQL+%26+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Web+%26+Mobile+Engineering+(Since+2021);Mobile:+Android+Native+(Kotlin%2FJava)+%26+Flutter+(Dart);Frontend:+Vue%2C+Nuxt%2C+React%2C+JavaScript%2C+Tailwind+CSS;Backend:+Golang%2C+Laravel%2C+Node.js%2C+Express.js;Enterprise:+Point+of+Sale+(POS)+%26+Inventory+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💼 Services & What I Build
 
-- 📱 **Mobile Applications:** Android Native (Kotlin & Java) and Cross-Platform (Flutter / Dart)
-- 🌐 **Modern Web & Dashboards:** Vue, Nuxt, React, Tailwind CSS, and JavaScript / TypeScript
-- ⚡ **High-Performance APIs:** Golang, Express.js (Node.js), Laravel, PHP & CodeIgniter
-- 🧾 **Business & POS Solutions:** Point of Sale (Kasir), Inventory Management, and Admin Dashboards
+- 📱 **Mobile Applications:** High-performance Android Native and Cross-Platform apps with smooth UI and offline-first data support.
+- 🌐 **Modern Web Applications:** Responsive Single Page Applications (SPA), interactive web portals, and client-facing platforms.
+- ⚡ **High-Performance APIs:** Scalable RESTful microservices, secure authentication, and optimized database schemas.
+- 🧾 **Business & POS Solutions:** Integrated Point of Sale (Kasir), multi-branch inventory control, and enterprise management software.
 
 ---
 
@@ -31,7 +31,7 @@ Building reliable, production-ready digital products for businesses **since 2021
 
 | 📱 Mobile | 🎨 Frontend | ⚙️ Backend | 🗄️ Database & Tools |
 | :-: | :-: | :-: | :-: |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,kotlin,java,flutter,dart,cpp&perline=3" alt="Mobile" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxt,react,tailwind&perline=3" alt="Frontend" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=go,nodejs,express,php,laravel,codeigniter&perline=3" alt="Backend" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,py,docker,git,postman&perline=3" alt="Database & Tools" /> |
+| <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,cpp&perline=3" alt="Mobile" /> | <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,tailwind&perline=3" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=go,nodejs,express,php,laravel,codeigniter&perline=3" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,postman,linux&perline=3" alt="Database & Tools" /> |
 
 ---
 
