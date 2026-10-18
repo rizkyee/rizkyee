@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+  <defs>
+    <linearGradient id="mintBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5a0" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="cyanBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d2ff" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="amberBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <style>
+    .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 17px; fill: #ffffff; }
+    .card-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; fill: #94a3b8; line-height: 1.5; }
+    .card-tag { font-family: 'SF Mono', Consolas, Monaco, monospace; font-size: 10px; font-weight: 700; letter-spacing: 0.5; }
+    .card-label { font-family: 'SF Mono', Consolas, Monaco, monospace; font-size: 10px; font-weight: 800; letter-spacing: 1; }
+  </style>
+
+  <!-- CARD 1: Mobile Applications -->
+  <g transform="translate(0, 0)">
+    <rect width="585" height="175" rx="16" fill="#0b1322" stroke="url(#mintBorder)" stroke-width="1.4" />
+    <g transform="translate(24, 24)">
+      <!-- Icon Box -->
+      <rect width="36" height="36" rx="10" fill="#00f5a0" fill-opacity="0.12" stroke="#00f5a0" stroke-width="1.2" />
+      <path d="M 12 8 L 24 8 A 2 2 0 0 1 26 10 L 26 26 A 2 2 0 0 1 24 28 L 12 28 A 2 2 0 0 1 10 26 L 10 10 A 2 2 0 0 1 12 8 Z M 16 24 L 20 24" stroke="#00f5a0" stroke-width="1.8" fill="none" />
+      <!-- Content -->
+      <text x="48" y="16" class="card-title">Mobile Applications</text>
+      <text x="500" y="16" class="card-label" fill="#00f5a0">MOBILE</text>
+      <text x="48" y="42" class="card-desc">Android Native (Kotlin &amp; Java) and Cross-Platform (Flutter / Dart) with</text>
+      <text x="48" y="62" class="card-desc">offline-first architecture, clean states, and responsive fluid UI.</text>
+      <!-- Tech Tags -->
+      <text x="48" y="112" class="card-tag" fill="#00f5a0">KOTLIN &nbsp;·&nbsp; JAVA &nbsp;·&nbsp; FLUTTER &nbsp;·&nbsp; DART &nbsp;·&nbsp; C++</text>
+    </g>
+  </g>
+
+  <!-- CARD 2: Modern Web & Dashboards -->
+  <g transform="translate(615, 0)">
+    <rect width="585" height="175" rx="16" fill="#0b1322" stroke="url(#cyanBorder)" stroke-width="1.4" />
+    <g transform="translate(24, 24)">
+      <!-- Icon Box -->
+      <rect width="36" height="36" rx="10" fill="#00d2ff" fill-opacity="0.12" stroke="#00d2ff" stroke-width="1.2" />
+      <circle cx="18" cy="18" r="9" stroke="#00d2ff" stroke-width="1.8" fill="none" />
+      <path d="M 9 18 L 27 18 M 18 9 Q 23 18 18 27 Q 13 18 18 9" stroke="#00d2ff" stroke-width="1.5" fill="none" />
+      <!-- Content -->
+      <text x="48" y="16" class="card-title">Modern Web &amp; Dashboards</text>
+      <text x="510" y="16" class="card-label" fill="#00d2ff">WEB</text>
+      <text x="48" y="42" class="card-desc">Single Page Applications (SPA), interactive portals, and executive</text>
+      <text x="48" y="62" class="card-desc">monitoring dashboards built with high precision and performance.</text>
+      <!-- Tech Tags -->
+      <text x="48" y="112" class="card-tag" fill="#00d2ff">VUE 3 &nbsp;·&nbsp; NUXT &nbsp;·&nbsp; REACT &nbsp;·&nbsp; TAILWIND &nbsp;·&nbsp; TYPESCRIPT</text>
+    </g>
+  </g>
+
+  <!-- CARD 3: High-Performance APIs -->
+  <g transform="translate(0, 195)">
+    <rect width="585" height="175" rx="16" fill="#0b1322" stroke="url(#amberBorder)" stroke-width="1.4" />
+    <g transform="translate(24, 24)">
+      <!-- Icon Box -->
+      <rect width="36" height="36" rx="10" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-width="1.2" />
+      <path d="M 20 7 L 11 19 L 17 19 L 14 29 L 25 17 L 19 17 Z" stroke="#f59e0b" stroke-width="1.8" fill="none" />
+      <!-- Content -->
+      <text x="48" y="16" class="card-title">High-Performance APIs</text>
+      <text x="515" y="16" class="card-label" fill="#f59e0b">API</text>
+      <text x="48" y="42" class="card-desc">Clean architecture RESTful APIs, asynchronous background queues,</text>
+      <text x="48" y="62" class="card-desc">and database caching engineered for high throughput and speed.</text>
+      <!-- Tech Tags -->
+      <text x="48" y="112" class="card-tag" fill="#f59e0b">GOLANG &nbsp;·&nbsp; LARAVEL &nbsp;·&nbsp; NODE.JS &nbsp;·&nbsp; EXPRESS &nbsp;·&nbsp; PHP</text>
+    </g>
+  </g>
+
+  <!-- CARD 4: Business & POS Solutions -->
+  <g transform="translate(615, 195)">
+    <rect width="585" height="175" rx="16" fill="#0b1322" stroke="url(#mintBorder)" stroke-width="1.4" />
+    <g transform="translate(24, 24)">
+      <!-- Icon Box -->
+      <rect width="36" height="36" rx="10" fill="#00f5a0" fill-opacity="0.12" stroke="#00f5a0" stroke-width="1.2" />
+      <path d="M 10 9 L 26 9 L 26 27 L 22 25 L 18 27 L 14 25 L 10 27 Z M 14 14 L 22 14 M 14 18 L 19 18" stroke="#00f5a0" stroke-width="1.8" fill="none" />
+      <!-- Content -->
+      <text x="48" y="16" class="card-title">Business &amp; POS Solutions</text>
+      <text x="470" y="16" class="card-label" fill="#00f5a0">ENTERPRISE</text>
+      <text x="48" y="42" class="card-desc">Custom Point of Sale (Kasir), multi-warehouse inventory control, and</text>
+      <text x="48" y="62" class="card-desc">complete operational back-office systems for retail and enterprise.</text>
+      <!-- Tech Tags -->
+      <text x="48" y="112" class="card-tag" fill="#00f5a0">POS &nbsp;·&nbsp; INVENTORY &nbsp;·&nbsp; AUTOMATION &nbsp;·&nbsp; MULTI-BRANCH</text>
+    </g>
+  </g>
+</svg>

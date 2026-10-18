@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="toolBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5a0" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#00d2ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <style>
+    .row-label { font-family: 'SF Mono', Consolas, Monaco, monospace; font-size: 11px; font-weight: 800; fill: #94a3b8; letter-spacing: 1.5; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 600; fill: #ffffff; }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="1200" height="320" rx="16" fill="#090f1d" stroke="url(#toolBorder)" stroke-width="1.4" />
+
+  <!-- ROW 1: LANGUAGES -->
+  <g transform="translate(32, 28)">
+    <circle cx="6" cy="14" r="3" fill="#00f5a0" />
+    <text x="16" y="18" class="row-label">LANGUAGES</text>
+    <g transform="translate(180, 0)">
+      <g transform="translate(0, 0)">
+    <rect width="124" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#00ADD8" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Go / Golang</text>
+  </g>
+      <g transform="translate(110, 0)">
+    <rect width="116" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#3178C6" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">TypeScript</text>
+  </g>
+      <g transform="translate(215, 0)">
+    <rect width="116" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#F7DF1E" />
+    <text x="22" y="18.5" class="badge-text" fill="#000">JavaScript</text>
+  </g>
+      <g transform="translate(320, 0)">
+    <rect width="84" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#7F52FF" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Kotlin</text>
+  </g>
+      <g transform="translate(400, 0)">
+    <rect width="68" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#ED8B00" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Java</text>
+  </g>
+      <g transform="translate(470, 0)">
+    <rect width="60" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#777BB4" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">PHP</text>
+  </g>
+      <g transform="translate(540, 0)">
+    <rect width="68" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#0175C2" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Dart</text>
+  </g>
+      <g transform="translate(610, 0)">
+    <rect width="92" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#00599C" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">C / C++</text>
+  </g>
+    </g>
+  </g>
+  <line x1="32" y1="80" x2="1168" y2="80" stroke="#162238" stroke-width="1" />
+
+  <!-- ROW 2: FRONTEND -->
+  <g transform="translate(32, 92)">
+    <circle cx="6" cy="14" r="3" fill="#00d2ff" />
+    <text x="16" y="18" class="row-label">FRONTEND</text>
+    <g transform="translate(180, 0)">
+      <g transform="translate(0, 0)">
+    <rect width="148" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#4FC08D" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Vue.js (Vue 3)</text>
+  </g>
+      <g transform="translate(130, 0)">
+    <rect width="92" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#00DC82" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Nuxt.js</text>
+  </g>
+      <g transform="translate(220, 0)">
+    <rect width="100" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#61DAFB" />
+    <text x="22" y="18.5" class="badge-text" fill="#000">React.js</text>
+  </g>
+      <g transform="translate(315, 0)">
+    <rect width="132" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#06B6D4" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Tailwind CSS</text>
+  </g>
+      <g transform="translate(435, 0)">
+    <rect width="68" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#646CFF" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Vite</text>
+  </g>
+      <g transform="translate(505, 0)">
+    <rect width="132" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#E34F26" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">HTML5 / CSS3</text>
+  </g>
+    </g>
+  </g>
+  <line x1="32" y1="144" x2="1168" y2="144" stroke="#162238" stroke-width="1" />
+
+  <!-- ROW 3: BACKEND & DATA -->
+  <g transform="translate(32, 156)">
+    <circle cx="6" cy="14" r="3" fill="#f59e0b" />
+    <text x="16" y="18" class="row-label">BACKEND &amp; DATA</text>
+    <g transform="translate(180, 0)">
+      <g transform="translate(0, 0)">
+    <rect width="92" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#FF2D20" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Laravel</text>
+  </g>
+      <g transform="translate(90, 0)">
+    <rect width="92" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#339933" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Node.js</text>
+  </g>
+      <g transform="translate(180, 0)">
+    <rect width="116" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#475569" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Express.js</text>
+  </g>
+      <g transform="translate(285, 0)">
+    <rect width="124" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#EF4223" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">CodeIgniter</text>
+  </g>
+      <g transform="translate(400, 0)">
+    <rect width="116" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#4169E1" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">PostgreSQL</text>
+  </g>
+      <g transform="translate(510, 0)">
+    <rect width="76" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#4479A1" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">MySQL</text>
+  </g>
+    </g>
+  </g>
+  <line x1="32" y1="208" x2="1168" y2="208" stroke="#162238" stroke-width="1" />
+
+  <!-- ROW 4: MOBILE -->
+  <g transform="translate(32, 220)">
+    <circle cx="6" cy="14" r="3" fill="#00f5a0" />
+    <text x="16" y="18" class="row-label">MOBILE</text>
+    <g transform="translate(180, 0)">
+      <g transform="translate(0, 0)">
+    <rect width="92" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#02569B" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Flutter</text>
+  </g>
+      <g transform="translate(90, 0)">
+    <rect width="148" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#3DDC84" />
+    <text x="22" y="18.5" class="badge-text" fill="#000">Android Native</text>
+  </g>
+      <g transform="translate(220, 0)">
+    <rect width="148" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#3DDC84" />
+    <text x="22" y="18.5" class="badge-text" fill="#000">Android Studio</text>
+  </g>
+    </g>
+  </g>
+  <line x1="32" y1="270" x2="1168" y2="270" stroke="#162238" stroke-width="1" />
+
+  <!-- ROW 5: TOOLS & DEVOPS -->
+  <g transform="translate(32, 280)">
+    <circle cx="6" cy="14" r="3" fill="#00d2ff" />
+    <text x="16" y="18" class="row-label">TOOLS &amp; DEVOPS</text>
+    <g transform="translate(180, 0)">
+      <g transform="translate(0, 0)">
+    <rect width="60" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#F05032" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Git</text>
+  </g>
+      <g transform="translate(65, 0)">
+    <rect width="84" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#181717" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">GitHub</text>
+  </g>
+      <g transform="translate(150, 0)">
+    <rect width="84" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#2496ED" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Docker</text>
+  </g>
+      <g transform="translate(235, 0)">
+    <rect width="92" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#FF6C37" />
+    <text x="22" y="18.5" class="badge-text" fill="#ffffff">Postman</text>
+  </g>
+      <g transform="translate(330, 0)">
+    <rect width="76" height="28" rx="8" fill="#111c30" stroke="#1e2e4a" stroke-width="1" />
+    <circle cx="12" cy="14" r="3.5" fill="#FCC624" />
+    <text x="22" y="18.5" class="badge-text" fill="#000">Linux</text>
+  </g>
+    </g>
+  </g>
+</svg>
