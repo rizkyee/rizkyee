@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rizky Ramdani
-### Full-Stack Software Engineer · Mobile (Android & iOS)
+### Full-Stack Software Engineer
 
 Building reliable, production-ready digital products and scalable systems **since 2021**.
 
