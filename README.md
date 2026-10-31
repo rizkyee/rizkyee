@@ -27,7 +27,7 @@ Building reliable, production-ready digital products and scalable systems **sinc
 - **Mobile Applications (Android & iOS):** High-performance Native (Kotlin / Swift) and Cross-Platform (Flutter) applications with smooth UI, offline-first data synchronization, and store-ready deployment.
 - **Modern Web Applications:** Scalable Single Page Applications (SPA) & SSR web platforms built with Vue, Nuxt.js, React, and Tailwind CSS.
 - **High-Performance APIs:** Scalable RESTful microservices, secure authentication, and optimized database architectures built with Go, Python, Laravel, and Node.js.
-- **Business & Enterprise Solutions:** Integrated Point of Sale (POS), multi-branch inventory automation, and robust administrative portals.33
+- **Business & Enterprise Solutions:** Integrated Point of Sale (POS), multi-branch inventory automation, and robust administrative portals.
 
 ---
 
