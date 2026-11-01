@@ -9,7 +9,7 @@ Building reliable, production-ready digital products and scalable systems **sinc
   <a href="https://wa.me/6285210612146?text=Halo%20Rizky,%20saya%20tertarik%20untuk%20diskusi%20proyek">
     <img src="https://img.shields.io/badge/●%20Available%20for%20Freelance-16a34a?style=for-the-badge" alt="Available" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-Since%202021-0e7490?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-Since%202022-0e7490?style=for-the-badge" alt="Experience" />
   <img src="https://img.shields.io/badge/Jombang,%20ID-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Remote-Worldwide-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Remote" />
 </p>
