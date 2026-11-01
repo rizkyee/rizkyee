@@ -3,7 +3,7 @@
 # Rizky Ramdani
 ### Full-Stack Software Engineer
 
-Building reliable, production-ready digital products and scalable systems **since 2021**.
+Building reliable, production-ready digital products and scalable systems **since 2022**.
 
 <p align="center">
   <a href="https://wa.me/6285210612146?text=Halo%20Rizky,%20saya%20tertarik%20untuk%20diskusi%20proyek">
